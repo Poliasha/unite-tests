@@ -4,7 +4,7 @@ branches:
   only:
     - master # ветка git
 
-build: off  # будем использовать свой скрипт сборки
+build: on # будем использовать свой скрипт сборки
 
 build_script:
   - gradlew build
