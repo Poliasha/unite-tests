@@ -1,0 +1,3 @@
+amount,expected,massage
+900,100,Should Return 100 If Amount900
+1000,0,Should Return Zero If Amount1000
